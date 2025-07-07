@@ -16,7 +16,7 @@ If you are not using VSCode you can install and run the "live-server" npm packag
 - [ ] Use npm run live-server or npx live-server --port=5551 to run the live-server. The port number should be 5551 strictly.
 
 The live-server installation video: [Video](https://www.loom.com/share/ca99ebec79d14bfa9fc4dd012661f919?sid=4ed63e9d-f8b8-4adf-bfc5-fff16d7f15cd)  
-The live-server NPM package page: [Link](https://www.npmjs.com/package/live-server)
+The live-server NPM package page: [Link](https://www.nwpmjs.com/package/live-server)
 
 ## Learning objectives
 
@@ -26,12 +26,12 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] Initialize playwright and install project packages
+  - [x] Use `npm i` to install packages
+  - [x] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
   - [ ] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] **The project's file/folder structure should NOT be edited!**
